@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b626c25e-37ff-44cf-b3ad-8d0770b82c44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCeTshpvYzM0UH1kk3zB5BYy9U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommarce\app\views\product" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b626c25e-37ff-44cf-b3ad-8d0770b82c44" name="Default Changelist" comment="" />
+      <created>1603312529855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603312529855</updated>
+      <workItem from="1603312536953" duration="21758000" />
+      <workItem from="1609697898057" duration="6181000" />
+      <workItem from="1609792192917" duration="10614000" />
+      <workItem from="1610208796682" duration="10534000" />
+      <workItem from="1610283170594" duration="1040000" />
+      <workItem from="1610309184987" duration="1151000" />
+      <workItem from="1610529590992" duration="932000" />
+      <workItem from="1610530547508" duration="1507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1813" y="188" key="#Notifications" timestamp="1610529706376">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1813" y="188" key="#Notifications/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610529706376" />
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603371208194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603371208194" />
+    <state x="1829" y="119" key="FileChooserDialogImpl" timestamp="1610530542181">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1829" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610530542181" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609873854081" />
+    <state x="1929" y="262" width="257" height="284" key="Github.ShareDialog" timestamp="1610530463004">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1929" y="262" width="257" height="284" key="Github.ShareDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610530463004" />
+    <state x="471" y="87" key="NewPhpClassDialog" timestamp="1603369806897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1603369806897" />
+    <state x="1559" y="9" key="SettingsEditor" timestamp="1610530349793">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1559" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610530349793" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1610220648995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610220648995" />
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610530460236">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610530460236" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610309407889" />
+  </component>
+</project>
